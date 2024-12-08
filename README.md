@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sisensa
 Tugas RPL Kelompok 4
 =======
@@ -28,14 +27,12 @@ Aplikasi ini dibangun dengan teknologi berikut:
     -   Blade untuk templating engine.
 
 -   Frontend:
-
-    -   ReactJS untuk landing page.
     -   TailwindCSS untuk styling yang responsif dan fleksibel.
     -   FullCalendar untuk kalender interaktif.
 
 -   Version Control:
     -   Git untuk version control.
-    -   GitLab untuk repository dan CI/CD pipeline.
+    -   GitHub untuk repository dan CI/CD pipeline.
 
 ## Langkah Penggunaan
 
